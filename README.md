@@ -18,6 +18,9 @@
   </div>
   <div>&nbsp;</div>
 
+Please refer to the project page. [https://github.com/users/sghong977/projects/1](https://github.com/users/sghong977/projects/1)
+
+
 [![build](https://github.com/open-mmlab/mmocr/workflows/build/badge.svg)](https://github.com/open-mmlab/mmocr/actions)
 [![docs](https://readthedocs.org/projects/mmocr/badge/?version=latest)](https://mmocr.readthedocs.io/en/latest/?badge=latest)
 [![codecov](https://codecov.io/gh/open-mmlab/mmocr/branch/main/graph/badge.svg)](https://codecov.io/gh/open-mmlab/mmocr)
